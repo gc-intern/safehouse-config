@@ -1,0 +1,12 @@
+DeviceID,DeviceType,DeviceName,LocationID
+1,Camera,FrontOutsideCamera1,6
+2,Camera,Hallway1Camera1,2
+3,TX2_Machine,TX2_1,1
+4,Motion Sensor,MotionSensor1,1
+5,Motion Sensor,MotionSensor2,2
+6,DoorLock,Lock1,1
+7,Lamp,Lamp,1
+8,Smart Plug,Plug1,1
+9,Smart Plug,Plug2,1
+10,Smart Assistant,Alexa,1
+11,Smart Assistant,GoogleHome,1
